@@ -88,3 +88,10 @@ ENV/
 # Rope project settings
 .ropeproject
 **/*/.ipynb_checkpoints
+*.p
+*.gz
+cifar-10-batches-py/
+checkpoint/
+*.data-00000-of-00001
+*.index
+*.meta
